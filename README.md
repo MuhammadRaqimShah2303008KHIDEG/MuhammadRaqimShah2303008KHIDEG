@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Syed Muhammad Raqim Ali Shah
 
-- I'm a Software Engineer working in the Data Engineering Team at XLoop Digital
+- I'm a Software Engineer working in the Data Engineering Team 
 - 👀 I’m interested in Solving problems using Data Science
 - 🌱 I’m currently and will always be learning to groom myself.
 - 💞️ I’m looking to collaborate on consultation regarding any problem that can be solved using Data Sciences.
 - 📫 Reach me at:
-- raqim.shah@xloopdigital.com
+- muhammad.raqim.12@gmail.com
 
 <!--
 **MuhammadRaqimShah2303008KHIDEG/MuhammadRaqimShah2303008KHIDEG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
