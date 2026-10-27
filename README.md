@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Syed%20Muhammad%20Raqim%20Ali%20Shah&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Data%20Engineer%20%C2%B7%20FinTech%20%C2%B7%20Real-time%20Data%20Platforms&descSize=16&descAlignY=58" alt="header" />
 
 <a href="https://github.com/MuhammadRaqimShah2303008KHIDEG">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=700&lines=I+move+financial+data+reliably.;CDC+%7C+Data+Warehousing+%7C+Lakehouse+%7C+Data Engineering;Turning+raw+transactions+into+decisions." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=700&lines=I+move+financial+data+reliably.;CDC+%7C+Data+Warehousing+%7C+Lakehouse+%7C+Data+Engineering;Turning+raw+transactions+into+decisions." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -143,7 +143,7 @@ The principles I keep coming back to:
 
 1. **Idempotent by design.** Replays and retries must never corrupt a target table.
 2. **Schema change is normal.** Pipelines should survive a new column, not page someone at night.
-3. **Money data needs reconciliation.** Row counts and balances are validated, not assumed.
+3. **Financial data needs reconciliation.** Row counts and balances are validated, not assumed.
 4. **Operate what you build.** Monitoring, audit trails and a tested recovery plan are part of the feature.
 
 ---
